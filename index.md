@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+### 欢迎访问HaiTang个人主页
 
-You can use the [editor on GitHub](https://github.com/duoduoduoduorou/HaiTang.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### 个人信息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 教育经历
 
-### Markdown
+  1、2018.09~2022.06   受教于石家庄铁道大学软件工程系
+  
+#### 个人技能
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 1、熟悉office办公软件的使用、会使用C\C++、java、python、php、C#等编程语言的使用  
+ 2、熟悉java web的开发流程，可以独立开发出一套java web程序，会使用spring等开发框架的使用  
+ 3、熟悉人工智能相关技术，可以利用paddle paddle和tensorflow等人工智能框架  
+  
+#### 项目经历
 
-```markdown
-Syntax highlighted code block
+  项目一   基于探索者教育机器人的物联网平台搭建  
+       这个项目帮助学校工程训练中心实现教育机器人平台的升级换代，从传统的教育机器人到现在的物联网机器人之间的升级，拓展了教育机器人的开发潜力，为日后学校物联网机器人方面的拓展教学奠定基础。    
+        
+  项目二   无人驾驶小车
+        该小车项目来源于百度的AI的比赛，该小车涉及到嵌入式、人工智能等多种技术的结合，在项目中主要负责人工智能模块的开发，帮助小车训练基本的模型，帮助小车自动识别道路，自动识别物件进行后面的操作。  
+  
+  项目三   全国第七次人口普查系统
+        此项目为为Java测试项目，主要用于Java的各个方面开发测试，主要功能是人口信息录入、详细信息查看、信息修改、信息删除以及按照时间排序等。是一个采用jdk1.8、mysql8.0等技术的MVC三层架构项目。  
+        
+#### 就业方向
 
-# Header 1
-## Header 2
-### Header 3
+    方向一   大数据技术开发方向  
+              数据提取、数据分析、数据仓库开发等
+    方向二   人工智能方向  
+              图像识别、自然语言识别
 
-- Bulleted
-- List
+#### 荣誉
 
-1. Numbered
-2. List
+    第二届国际青年人工智能大赛铜奖
+    
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duoduoduoduorou/HaiTang.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
